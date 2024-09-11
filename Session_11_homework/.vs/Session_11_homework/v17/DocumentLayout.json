@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\Session_11_homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9ABB59E-A9D4-47E5-82F4-07D146766BEF}|Session_11_homework\\Session_11_homework.csproj|c:\\users\\victo\\source\\repos\\session_11_homework\\session_11_homework\\movies.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9ABB59E-A9D4-47E5-82F4-07D146766BEF}|Session_11_homework\\Session_11_homework.csproj|solutionrelative:session_11_homework\\movies.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9ABB59E-A9D4-47E5-82F4-07D146766BEF}|Session_11_homework\\Session_11_homework.csproj|C:\\Users\\victo\\source\\repos\\Session_11_homework\\session_11_homework\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C9ABB59E-A9D4-47E5-82F4-07D146766BEF}|Session_11_homework\\Session_11_homework.csproj|solutionrelative:session_11_homework\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movies.xml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Session_11_homework\\Session_11_homework\\movies.xml",
+              "RelativeDocumentMoniker": "Session_11_homework\\movies.xml",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Session_11_homework\\Session_11_homework\\movies.xml",
+              "RelativeToolTip": "Session_11_homework\\movies.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-16T16:43:48.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\Session_11_homework\\Session_11_homework\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Session_11_homework\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\Session_11_homework\\Session_11_homework\\WebForm1.aspx",
+              "RelativeToolTip": "Session_11_homework\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T23:07:57.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

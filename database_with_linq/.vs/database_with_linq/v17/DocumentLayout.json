@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\database_with_linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1FEE21-70C3-43CF-B2E9-89A893D52563}|database_with_linq\\database_with_linq.csproj|C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\account_info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6C1FEE21-70C3-43CF-B2E9-89A893D52563}|database_with_linq\\database_with_linq.csproj|solutionrelative:database_with_linq\\account_info.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C1FEE21-70C3-43CF-B2E9-89A893D52563}|database_with_linq\\database_with_linq.csproj|C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\account_info.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1FEE21-70C3-43CF-B2E9-89A893D52563}|database_with_linq\\database_with_linq.csproj|solutionrelative:database_with_linq\\account_info.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\DataClasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database_with_linq\\DataClasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "database_with_linq\\DataClasses1.dbml",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\DataClasses1.dbml",
+              "RelativeToolTip": "database_with_linq\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-05-16T18:58:04.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "account_info.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\account_info.aspx.cs",
+              "RelativeDocumentMoniker": "database_with_linq\\account_info.aspx.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\account_info.aspx.cs",
+              "RelativeToolTip": "database_with_linq\\account_info.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:28:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "account_info.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\account_info.aspx",
+              "RelativeDocumentMoniker": "database_with_linq\\account_info.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\database_with_linq\\database_with_linq\\account_info.aspx",
+              "RelativeToolTip": "database_with_linq\\account_info.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-16T18:28:10.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

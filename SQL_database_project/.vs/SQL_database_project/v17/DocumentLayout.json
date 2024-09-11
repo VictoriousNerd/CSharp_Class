@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\SQL_database_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E14A831-6B77-4519-A29F-874BE2352DB3}|SQL_database_project\\SQL_database_project.csproj|C:\\Users\\victo\\source\\repos\\SQL_database_project\\sql_database_project\\studinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6E14A831-6B77-4519-A29F-874BE2352DB3}|SQL_database_project\\SQL_database_project.csproj|solutionrelative:sql_database_project\\studinfo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E14A831-6B77-4519-A29F-874BE2352DB3}|SQL_database_project\\SQL_database_project.csproj|c:\\users\\victo\\source\\repos\\sql_database_project\\sql_database_project\\studinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E14A831-6B77-4519-A29F-874BE2352DB3}|SQL_database_project\\SQL_database_project.csproj|solutionrelative:sql_database_project\\studinfo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studinfo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\SQL_database_project\\SQL_database_project\\studinfo.aspx.cs",
+              "RelativeDocumentMoniker": "SQL_database_project\\studinfo.aspx.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\SQL_database_project\\SQL_database_project\\studinfo.aspx.cs",
+              "RelativeToolTip": "SQL_database_project\\studinfo.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:19:15.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studinfo.aspx",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\SQL_database_project\\SQL_database_project\\studinfo.aspx",
+              "RelativeDocumentMoniker": "SQL_database_project\\studinfo.aspx",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\SQL_database_project\\SQL_database_project\\studinfo.aspx",
+              "RelativeToolTip": "SQL_database_project\\studinfo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-13T15:49:13.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
